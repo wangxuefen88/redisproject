@@ -1,0 +1,5 @@
+<root>
+    <item name='redis.clients.jedis.Jedis'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
